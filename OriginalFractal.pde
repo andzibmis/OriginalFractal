@@ -1,5 +1,4 @@
 public void setup () {
-	frameRate (999999);
 	size (500, 500);
 }
 
